@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19367283795",
+    "project_id": "projectmobileuas",
+    "storage_bucket": "projectmobileuas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19367283795:android:8f5dc44c8d90c9e3848aa6",
+        "android_client_info": {
+          "package_name": "com.hajera.projectmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB84h7aQR8T79TQN8l13hePucEW8yoYktw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19367283795:android:7932f4600b6eb3d2848aa6",
+        "android_client_info": {
+          "package_name": "com.hajera.uasmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB84h7aQR8T79TQN8l13hePucEW8yoYktw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

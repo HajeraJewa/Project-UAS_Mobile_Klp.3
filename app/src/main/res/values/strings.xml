@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">uasmobile</string>
+    <string name="home">Home</string>
+    <string name="library">Library</string>
+    <string name="account">Account</string>
+    <string name="profile_image">Profile Image</string>
+
+</resources>

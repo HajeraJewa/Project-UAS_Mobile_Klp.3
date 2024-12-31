@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="registerButton" type="id" />
+    <item name="passwordEditText" type="id" />
+    <item name="emailEditText" type="id" />
+    <item name="login_button" type="id" />
+    <item name="register_redirect" type="id" />
+    <item name="bottomNavigationView" type="id" />
+    <item name="fragment_container" type="id" />
+    <item name="recyclerView" type="id" />
+</resources>
